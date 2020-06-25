@@ -1,0 +1,135 @@
+@media screen and (max-width:1300px){
+  header .gnb{display: block;}
+  .main_section{height:500px;}
+
+
+  /* join page style */
+  .form_box{width:80%;}
+  .form_box .col span{display: block;}
+  .form_box .col input{width:80%;}
+  .form_box .col_1 input{width:60%;}
+  .form_box .col_1 button{width:18%;}
+  .form_box .col_5 .email1{width:30%; float: left;}
+  .form_box .col_5 .email2{width:45%; float: left;}
+  .form_box .col_5 b{display:block; width:5%; float: left;}
+
+  .search_write .search_form select{width:20%;}
+
+  .main_img{height:500px;}
+}
+
+@media screen and (max-width:1000px){
+  header .gnb{display: block;}
+  header .top-header{display: block;}
+  .main_section{height:350px;}
+  .latest .item_txt em{display: none;}
+  .latest .item_txt .txt_title{text-align: center;}
+  .latest .item_txt h3{float: none; margin-bottom:20px;}
+  .latest .item_txt p{float: none;}
+  .items .item{width:33.33%;}
+  .detail_box .detail_right p{font-size:20px;}
+  .detail_box .detail_right b{line-height:1.8; font-size:14px;}
+  .input_left{width:50%;}
+  .input_right{width:50%;}
+  .gallery_item{width:25%}
+  .gallery-size{width:25%;}
+  .board_form{width:80%;}
+  .search_write .search_form input{width:40%;}
+  .search_write .search_form button i{font-size:16px;}
+
+  .main_img{height:350px;}
+}
+
+@media screen and (max-width:900px){
+  .main_text p{font-size: 20px;}
+  .main_text h1{font-size: 38px;}
+  /* join page style */
+  .form_box{width:80%;}
+  .form_box .col span{font-size:12px; width:28%;}
+  .form_box .col input{width:70%;}
+  .form_box .col_1 input{width:70%;}
+  .form_box .col_1 button{width:100%; margin:10px 0 0 0; padding:8px 0; font-size:12px;}
+  .form_box .col{padding:5px 0;}
+  .form_box .col_5 .email1{width:25%; float: left;}
+  .form_box .col_5 .email2{width:35%; float: left;}
+  .form_box .col_5 b{display:block; width:10%; float: left;}
+  .title{font-size:20px;}
+  .form_btns button{font-size:12px;}
+  .login_box{width:70%;}
+  .detail_box .detail_left{width:100%; float:none; margin-bottom:20px;}
+  .detail_box .detail_right{width:100%; float:none; padding-left:10px;}
+  .gallery_item{width:33.33%;}
+  .gallery-size{width:33.33%;}
+
+  .search_write .search{width:100%; margin-bottom:20px;}
+  .search_write .write{width:100%;}
+  .search_write .search_form select{width:30%;}
+  .search_write .search_form input{width:49%;}
+  .search_write .search_form button{width:19%;}
+
+}
+
+
+
+@media screen and (max-width:750px){
+  header .gnb{display: block; width:120%; height:auto; left:-10%; position:absolute; top:100%; background:#fff; z-index:1000; display: none;}
+  header .gnb li{float: none; width:100%; border-bottom: 1px solid #E2ECF1;}
+  header .gnb li:first-child{border-top: 1px solid #ddd;}
+  header .gnb li a{padding:20px 0;}
+  header .top-header{display: none;}
+  header .menu_btn, header .login_btn{display: block;}
+  .main_section{height:230px;}
+  .directional_nav{display:none;}
+  .latest .item{width:100%; float: none; margin-left: 0; margin-top:20px;}
+  .about .about_left{width:100%; float: none;}
+  .about .about_right{width:100%; float: none;}
+  .purchase .purchase_box{text-align: center;}
+  .purchase .purchase_txt{float: none;}
+  .purchase .read_more{float: none; margin-top: 30px;}
+
+  header .stick.on .gnb{width:120%; float: none; height:auto;}
+  header .stick.on .gnb li{float: none;; width:100%; text-align: center;}
+  header .stick.on .gnb li a{color:#709FBB; font-weight: bold; display: block; padding:20px 0; transition:all 0.5s;}
+  header .stick.on .gnb li:hover a{background: #709FBB; color:#fff;}
+
+  footer p{font-size:14px;}
+
+  .main_text p{font-size:18px;}
+  .main_text h1{font-size:26px;}
+
+  .section_title .title{font-size:25px;}
+
+  .items .item{width:50%;}
+  .input_left{float:none; width:100%;}
+  .input_right{float:none; width:100%;}
+
+  .gallery_item{width:50%;}
+  .gallery-size{width:50%;}
+
+  .board_box .board_list li span:nth-child(1){display: none;}
+  .board_box .board_list li span:nth-child(2){width:70%;}
+  .board_box .board_list li span:nth-child(3){width:30%;}
+  .board_box .board_list li span:nth-child(4){display:none;}
+
+  .main_img{height:230px;}
+}
+
+@media screen and (max-width:500px){
+  .items .item{width:100%; margin-bottom:20px;}
+  .gallery_item{width:100%;}
+  .gallery-size{width:100%;}
+
+  footer p{font-size:12px;}
+}
+
+
+
+
+
+
+
+
+
+
+
+/*  */
