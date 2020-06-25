@@ -1,5 +1,5 @@
 # wave
-FRONTEND / BACKEND
+FRONTEND / BACKEND  
 기여도 100%
 
 > 수영복 쇼핑몰 사이트  
